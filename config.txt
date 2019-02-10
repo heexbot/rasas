@@ -1,6 +1,6 @@
-token=NTQ0MTc5OTIxMjU0MzUwODY3.D0HW4Q.49stFI4u6omqQBP1-MAs_Vymngc
+token=NTQ0MTgyNjgyMTUwNjMzNDcz.D0HZTQ.-xMJrt9aSO6sypivs3RlSJWrwR0
 owner=448964162840690700
-prefix= 6
-game= 6play | DragonsEmpire
+prefix= R
+game= OnlyRD | RD..
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
