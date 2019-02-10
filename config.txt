@@ -1,6 +1,6 @@
-token=NDYyOTgzNDg4NzQ0NzE4MzM5.Dv6gJA.TeltdGg7J37yWEfT2YGd8hiV60s
-owner=469163253147107328
+token=NTQ0MTc5OTIxMjU0MzUwODY3.D0HW4Q.49stFI4u6omqQBP1-MAs_Vymngc
+owner=448964162840690700
 prefix= 6
-game= 6play l 6help
+game= 6play | DragonsEmpire
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
